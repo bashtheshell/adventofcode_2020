@@ -1,4 +1,4 @@
-# adventofcode_2020
+# Advent of Code 2020
 
 ## Day 1:
 
