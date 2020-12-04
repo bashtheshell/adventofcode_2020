@@ -7,3 +7,6 @@ I was unprepared to deal with text files. I was hoping I can download a copy usi
 **UPDATE:** Completed the two part exercises on day 3. I'm aware the solution could be taxing. Especially with large input file. I forgot to sort the tuples but then it'd be irrelevant with the shortcuts I took.
 
 ## Day 2:
+
+I'm supposed to be on Day 3, but I'm a day behind. Just completed this exerise right before midnight of Day 4. The puzzle was very good. Although, Part 2 tricked me. I incorrectly answered it the first time, because I didn't read carefully.
+
