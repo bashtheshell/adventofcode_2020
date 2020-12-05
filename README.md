@@ -8,5 +8,11 @@ I was unprepared to deal with text files. I was hoping I can download a copy usi
 
 ## Day 2:
 
-I'm supposed to be on Day 3, but I'm a day behind. Just completed this exerise right before midnight of Day 4. The puzzle was very good. Although, Part 2 tricked me. I incorrectly answered it the first time, because I didn't read carefully.
+I'm supposed to be on Day 3, but I'm a day behind. Just completed this exercise right before midnight of Day 4. The puzzle was very good. Although, Part 2 tricked me. I incorrectly answered it the first time, because I didn't read carefully.
+
+## Day 3:
+
+I completed this puzzle on the morning of Day 5. The 2nd part was nerve-wracking as it'd be harder to debug if I got something wrong. I figured it's finally time I write my first function in this adventure for that problem as it's more appropriate to do so. I simply converted my part 1 solution into a function. Technically, I could've solved the problem a day sooner, but the indices threw me off. To debug, I actually had to map out the output with `X` and `O` to see if the slope is lining up which was tedious.
+
+## Day 4:
 
