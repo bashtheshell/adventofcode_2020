@@ -16,3 +16,5 @@ I completed this puzzle on the morning of Day 5. The 2nd part was nerve-wracking
 
 ## Day 4:
 
+Admittedly, I've been rusty with Python as I'm not a dev and I haven't code in a while. Today on Day 5, I finally got a chance to use list comprehensions. However, I wasted most of my day trying to figure how some of the codes can be better re-written. My advice to you... Don't let that get to you. Just move on and use all the lines available to you. I gave up much later in the day, copied and pasted duplicated lines I wrote. Those exercises are by far the most challenging.
+
