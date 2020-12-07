@@ -18,3 +18,7 @@ I completed this puzzle on the morning of Day 5. The 2nd part was nerve-wracking
 
 Admittedly, I've been rusty with Python as I'm not a dev and I haven't code in a while. Today on Day 5, I finally got a chance to use list comprehensions. However, I wasted most of my day trying to figure how some of the codes can be better re-written. My advice to you... Don't let that get to you. Just move on and use all the lines available to you. I gave up much later in the day, copied and pasted duplicated lines I wrote. Those exercises are by far the most challenging.
 
+## Day 5:
+
+I completed part 2 exercise on the morning of Day 7. While both exercises are not as bad as day 4, it was still challenging in a way that you can predictably solve the problems by creating mathematical equations. I needlessly spent too much time on part 1, trying to solve them in my head when I could've spend some time working on a piece of paper or whiteboard. Part 2 wasn't clear at first as I had to re-read it several times. I had to seek out for hints or clarifications. Turns out it's very straightforward as I only needed to worry about the seat IDs from the part 1 exercise.
+
