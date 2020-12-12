@@ -22,3 +22,6 @@ Admittedly, I've been rusty with Python as I'm not a dev and I haven't code in a
 
 I completed part 2 exercise on the morning of Day 7. While both exercises are not as bad as day 4, it was still challenging in a way that you can predictably solve the problems by creating mathematical equations. I needlessly spent too much time on part 1, trying to solve them in my head when I could've spend some time working on a piece of paper or whiteboard. Part 2 wasn't clear at first as I had to re-read it several times. I had to seek out for hints or clarifications. Turns out it's very straightforward as I only needed to worry about the seat IDs from the part 1 exercise.
 
+## Day 6
+
+I completed part 1. However, after realizing how far behind I'm as I was late to the game and how much time I spent on some of the daily exercises, I've decided to put this adventure to rest until next time. To be fair, I'm not a dev. So the solution didn't come to me as quickly as it was for the others. Although, I enjoyed the challenges.
